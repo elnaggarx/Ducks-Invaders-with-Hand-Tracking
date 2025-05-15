@@ -88,7 +88,7 @@ Your hand is your joystick & trigger!
 🤓 Credits
 Developed by: Mohamed Amr
 🎓 Computer Engineering Student
-🔗 Portfolio | GitHub | 📧 elnaggarx2003@gmail.com
+🔗 [Portfolio](https://mohamed-amr.netlify.app/)  | 📧 elnaggarx2003@gmail.com
 
 📜 License
 This game is open-source under the MIT License.
