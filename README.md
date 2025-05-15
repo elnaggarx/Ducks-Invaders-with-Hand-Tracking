@@ -40,15 +40,22 @@ You’ll navigate and fire your spaceship using **your index and middle fingers*
 ## 📁 Project Structure
 
 DucksInvaders/
+
 ├── game.py # Main game logic
+
 ├── handTracking.py # Hand detection module
+
 ├── Duck.py # Duck behavior and egg drop logic
+
 ├── Egg.py # Egg class, falling animation
+
 ├── Spaceship.py # Spaceship drawing and shooting
+
 ├── geometricShapes.py # Helper functions for OpenGL shapes
+
 ├── assets/
 │ ├── sounds/ # Background music, sfx
-│ └── images/ # Game assets (if used)
+│ 
 └── README.md # You're reading it!
 
 
